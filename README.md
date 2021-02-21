@@ -1,9 +1,14 @@
 # PEN-300 / OSEP
 
 Public resources for PEN-300 Training. 
-This page will be updated frequently in coming 2 months.
 
 ## Operating System and Programming Theory
+- 3.1.3.1: JavaScript
+  - https://developer.mozilla.org/en-US/docs/Web/API/Navigator/msSaveBlob
+  - https://docs.microsoft.com/en-us/previous-versions/hh772331(v=vs.85)
+- 3.2.2.1: MyMarco
+  - http://libertyboy.free.fr/computing/reference/envariables/
+  - https://www.youtube.com/watch?v=fG5PsO0L8bI
 
 ## Client Side Code Execution With Office
 
