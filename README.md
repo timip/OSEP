@@ -11,6 +11,8 @@ Public resources for PEN-300 Training.
 - 3.2.2.1: MyMarco
   - http://libertyboy.free.fr/computing/reference/envariables/
   - https://www.youtube.com/watch?v=fG5PsO0L8bI
+- 3.2.3.1: MyMarco and PowerShell
+  - https://www.abatchy.com/2017/03/powershell-download-file-one-liners
 
 ## Client Side Code Execution With Windows Script Host
 
