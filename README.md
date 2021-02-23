@@ -13,6 +13,15 @@ Public resources for PEN-300 Training.
   - https://www.youtube.com/watch?v=fG5PsO0L8bI
 - 3.2.3.1: MyMarco and PowerShell
   - https://www.abatchy.com/2017/03/powershell-download-file-one-liners
+- 3.4.3.1: Calling Win32 APIs from VBA
+  - https://sites.google.com/site/jrlhost/links/excelcdll
+  - MessageBoxA
+    - https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
+    - https://stackov=erflow.com/questions/60753153/custom-message-box-code-fails-without-out-warning-in-latest-version-of-excel-on
+    - https://www.cadsharp.com/docs/Win32API_PtrSafe.txt
+  - FindWindowA
+    - https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-findwindowa
+    - http://users.skynet.be/am044448/Programmeren/VBA/vba_class_names.htm
 
 ## Client Side Code Execution With Windows Script Host
 
