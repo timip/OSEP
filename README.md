@@ -22,6 +22,8 @@ Public resources for PEN-300 Training.
   - FindWindowA
     - https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-findwindowa
     - http://users.skynet.be/am044448/Programmeren/VBA/vba_class_names.htm
+- 3.5.1.1: Calling Win32 APIs from PowerShell
+  - http://pinvoke.net/default.aspx/advapi32/GetUserName.html
 
 ## Client Side Code Execution With Windows Script Host
 
