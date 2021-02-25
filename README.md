@@ -24,6 +24,8 @@ Public resources for PEN-300 Training.
     - http://users.skynet.be/am044448/Programmeren/VBA/vba_class_names.htm
 - 3.5.1.1: Calling Win32 APIs from PowerShell
   - http://pinvoke.net/default.aspx/advapi32/GetUserName.html
+- 3.5.2.1: Porting Shellcode Runner to PowerShell
+  - http://pinvoke.net/default.aspx/kernel32/WaitForSingleObject.html
 
 ## Client Side Code Execution With Windows Script Host
 
