@@ -26,6 +26,11 @@ Public resources for PEN-300 Training.
   - http://pinvoke.net/default.aspx/advapi32/GetUserName.html
 - 3.5.2.1: Porting Shellcode Runner to PowerShell
   - http://pinvoke.net/default.aspx/kernel32/WaitForSingleObject.html
+- 3.6.2.1: Leveraging UnsafeNativeMethods
+  - https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlea
+  - https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress
+- 3.6.3.1: DelegateType Reflection
+  - https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-winexec
 
 ## Client Side Code Execution With Windows Script Host
 
