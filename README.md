@@ -4,7 +4,7 @@ Public resources for PEN-300 Training.
 
 ## Operating System and Programming Theory
 
-## Client Side Code Execution With Office
+## 3. Client Side Code Execution With Office
 - 3.1.3.1: JavaScript
   - https://developer.mozilla.org/en-US/docs/Web/API/Navigator/msSaveBlob
   - https://docs.microsoft.com/en-us/previous-versions/hh772331(v=vs.85)
@@ -32,9 +32,16 @@ Public resources for PEN-300 Training.
 - 3.6.3.1: DelegateType Reflection
   - https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-winexec
 
-## Client Side Code Execution With Windows Script Host
+## 4. Client Side Code Execution With Windows Script Host
+- 4.1.1.1: Creating a Basic Dropper in Jscript
+  - https://stackoverflow.com/questions/1050293/vbscript-using-wscript-shell-to-execute-a-command-line-program-that-accesses-ac
+- 4.1.2.1: Jscript Meterpreter Dropper
+  - https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms760236%28v%3dvs.85%29 (It is ServerXMLHTTP. Not XMLHTTP)
+  - https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/x05fawxd(v=vs.84)
+- 4.2.2.1: DotNetToJscript
+- https://stackoverflow.com/questions/181719/how-do-i-start-a-process-from-c
 
-## Process Injection and Migration
+## 5. Process Injection and Migration
 
 ## Introduction to Antivirus Evasion
 
