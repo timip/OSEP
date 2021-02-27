@@ -39,7 +39,7 @@ Public resources for PEN-300 Training.
   - https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms760236%28v%3dvs.85%29 (It is ServerXMLHTTP. Not XMLHTTP)
   - https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/x05fawxd(v=vs.84)
 - 4.2.2.1: DotNetToJscript
-- https://stackoverflow.com/questions/181719/how-do-i-start-a-process-from-c
+  - https://stackoverflow.com/questions/181719/how-do-i-start-a-process-from-c
 
 ## 5. Process Injection and Migration
 
