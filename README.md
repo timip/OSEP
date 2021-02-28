@@ -42,6 +42,28 @@ Public resources for PEN-300 Training.
   - https://stackoverflow.com/questions/181719/how-do-i-start-a-process-from-c
 
 ## 5. Process Injection and Migration
+- 5.1.2.1: Process Injection in C# (VirtualAlloc and WriteProcessMemory Injection)
+  - http://pinvoke.net/default.aspx/kernel32/OpenProcess.html
+  - http://pinvoke.net/default.aspx/kernel32/VirtualAllocEx.html
+  - http://pinvoke.net/default.aspx/kernel32/WriteProcessMemory.html
+  - http://pinvoke.net/default.aspx/kernel32/CreateRemoteThread.html
+  - https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.getprocessesbyname?view=netframework-4.8
+  - https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.id?view=net-5.0
+  - https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/CodeExecution/Invoke-Shellcode.ps1
+- 5.1.2.2: Extra Mile (NTMap Injection)
+  - https://www.ired.team/offensive-security/code-injection-process-injection/ntcreatesection-+-ntmapviewofsection-code-injection
+  - http://joyasystems.com/list-of-ntstatus-codes
+  - NtCreationSection
+    - http://pinvoke.net/default.aspx/ntdll/NtCreateSection.html
+    - https://stackoverflow.com/questions/683491/how-to-declarate-large-integer-in-c-sharp
+  - NtMapViewOfSection
+    - http://pinvoke.net/default.aspx/ntdll/NtMapViewOfSection.html
+    - http://undocumented.ntinternals.net/index.html?page=UserMode%2FUndocumented%20Functions%2FNT%20Objects%2FSection%2FSECTION_INHERIT.html
+    - https://docs.microsoft.com/en-us/windows/win32/memory/memory-protection-constants
+  - NtUnmapViewOfSection
+    - http://pinvoke.net/default.aspx/ntdll/NtUnmapViewOfSection.html
+  - NtClose
+    - http://pinvoke.net/default.aspx/ntdll/NtClose.html 
 
 ## Introduction to Antivirus Evasion
 
