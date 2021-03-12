@@ -66,6 +66,10 @@ Public resources for PEN-300 Training.
     - http://pinvoke.net/default.aspx/ntdll/NtClose.html 
 
 ## Introduction to Antivirus Evasion
+- 6.6.2.1: Non-emulated APIs
+  - https://docs.microsoft.com/en-us/windows/win32/api/fibersapi/nf-fibersapi-flsalloc
+  - http://pinvoke.net/default.aspx/kernel32/FlsAlloc.html
+  - https://social.msdn.microsoft.com/Forums/en-US/c85f867b-66f8-45bd-a105-a984d80bd720/flsoutofindexes?forum=winappswithnativecode
 
 ## Advanced Antivirus Evasion
 
