@@ -65,11 +65,18 @@ Public resources for PEN-300 Training.
   - NtClose
     - http://pinvoke.net/default.aspx/ntdll/NtClose.html 
 
-## Introduction to Antivirus Evasion
+## 6. Introduction to Antivirus Evasion
 - 6.6.2.1: Non-emulated APIs
   - https://docs.microsoft.com/en-us/windows/win32/api/fibersapi/nf-fibersapi-flsalloc
   - http://pinvoke.net/default.aspx/kernel32/FlsAlloc.html
   - https://social.msdn.microsoft.com/Forums/en-US/c85f867b-66f8-45bd-a105-a984d80bd720/flsoutofindexes?forum=winappswithnativecode
+- 6.7.2.1: Stomping On Microsoft Word
+  - https://github.com/outflanknl/EvilClippy
+- 6.8.3.1: Obfuscating VBA
+  - https://download.serviio.org/releases/serviio-1.8-win-setup.exe
+  - https://www.exploit-db.com/exploits/41959
+  - https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae
+  - https://www.vergiliusproject.com/kernels/x64/Windows%2010%20|%202016/1809%20Redstone%205%20(October%20Update)/_PEB32
 
 ## Advanced Antivirus Evasion
 
