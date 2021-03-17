@@ -78,7 +78,14 @@ Public resources for PEN-300 Training.
   - https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae
   - https://www.vergiliusproject.com/kernels/x64/Windows%2010%20|%202016/1809%20Redstone%205%20(October%20Update)/_PEB32
 
-## Advanced Antivirus Evasion
+## 7. Advanced Antivirus Evasion
+
+- 7.4.2.1: Patching the internals
+  - https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:O97M/OfficeWmiRunPowershell.B&ThreatID=2147772508
+  - https://www.redteam.cafe/red-team/powershell/powershell-custom-runspace
+  - https://isc.sans.edu/forums/diary/Powershell+Dropping+a+REvil+Ransomware/27012/
+- 7.4.2.2: Extra Miles
+  - https://rastamouse.me/blog/asb-bypass-pt3/
 
 ## Application Whitelisting
 
