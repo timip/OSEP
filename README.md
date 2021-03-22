@@ -84,10 +84,13 @@ Public resources for PEN-300 Training.
   - https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:O97M/OfficeWmiRunPowershell.B&ThreatID=2147772508
   - https://www.redteam.cafe/red-team/powershell/powershell-custom-runspace
   - https://isc.sans.edu/forums/diary/Powershell+Dropping+a+REvil+Ransomware/27012/
-- 7.4.2.2: Extra Miles
+- 7.4.2.2: Extra Mile
   - https://rastamouse.me/blog/asb-bypass-pt3/
 
-## Application Whitelisting
+## 8. Application Whitelisting
+
+- 8.2.2.2: Extra Mile
+  - https://pentestlab.blog/2017/06/16/applocker-bypass-msiexec/
 
 ## Bypassing Network Filters
 
