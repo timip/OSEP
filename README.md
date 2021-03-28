@@ -91,6 +91,11 @@ Public resources for PEN-300 Training.
 
 - 8.2.2.2: Extra Mile
   - https://pentestlab.blog/2017/06/16/applocker-bypass-msiexec/
+- 8.4.5.2: Extra Mile
+  - https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2019
+  - https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-inline-tasks?view=vs-2019
+  - https://docs.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-inline-task?view=vs-2019
+  - https://www.ired.team/offensive-security/code-execution/using-msbuild-to-execute-shellcode-in-c 
 
 ## Bypassing Network Filters
 
