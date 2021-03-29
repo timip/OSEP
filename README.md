@@ -95,7 +95,11 @@ Public resources for PEN-300 Training.
   - https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2019
   - https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-inline-tasks?view=vs-2019
   - https://docs.microsoft.com/en-us/visualstudio/msbuild/walkthrough-creating-an-inline-task?view=vs-2019
-  - https://www.ired.team/offensive-security/code-execution/using-msbuild-to-execute-shellcode-in-c 
+  - https://www.ired.team/offensive-security/code-execution/using-msbuild-to-execute-shellcode-in-c
+- 8.5.2.2: Extra Mile
+  - https://github.com/cobbr/Covenant/wiki/Installation-And-Startup
+  - https://dotnet.microsoft.com/download/dotnet/3.1
+  - https://github.com/cobbr/Covenant/wiki
 
 ## Bypassing Network Filters
 
