@@ -101,7 +101,11 @@ Public resources for PEN-300 Training.
   - https://dotnet.microsoft.com/download/dotnet/3.1
   - https://github.com/cobbr/Covenant/wiki
 
-## Bypassing Network Filters
+## 9. Bypassing Network Filters
+
+- 9.3.1.1: Case Study: Bypassing Norton HIPS with Custom Certificates
+  - https://www.hackingarticles.in/bypass-detection-for-meterpreter-shell-impersonate_ssl/
+  - https://www.reddit.com/r/netsecstudents/comments/9xpfhy/problem_with_metasploit_using_an_ssl_certificate/
 
 ## Linux Post-Exploitation
 
