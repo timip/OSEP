@@ -106,6 +106,10 @@ Public resources for PEN-300 Training.
 - 9.3.1.1: Case Study: Bypassing Norton HIPS with Custom Certificates
   - https://www.hackingarticles.in/bypass-detection-for-meterpreter-shell-impersonate_ssl/
   - https://www.reddit.com/r/netsecstudents/comments/9xpfhy/problem_with_metasploit_using_an_ssl_certificate/
+- 9.6.1.2: Extra Mile
+  - https://censys.io/certificates?q=parsed.names:%20azureedge.net
+- 9.6.2.2: Extra Mile
+  - https://github.com/BC-SECURITY/Empire/issues/230
 
 ## Linux Post-Exploitation
 
