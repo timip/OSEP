@@ -111,7 +111,10 @@ Public resources for PEN-300 Training.
 - 9.6.2.2: Extra Mile
   - https://github.com/BC-SECURITY/Empire/issues/230
 
-## Linux Post-Exploitation
+## 10. Linux Post-Exploitation
+
+- 10.1.2.1: VIM Config Simple Keylogger
+  - https://askubuntu.com/questions/284957/vi-getting-multiple-sorry-the-command-is-not-available-in-this-version-af
 
 ## Kiosk Breakouts
 
