@@ -115,6 +115,8 @@ Public resources for PEN-300 Training.
 
 - 10.1.2.1: VIM Config Simple Keylogger
   - https://askubuntu.com/questions/284957/vi-getting-multiple-sorry-the-command-is-not-available-in-this-version-af
+- 10.3.2.2: Extra Mile
+  - https://stackoverflow.com/questions/20381812/mprotect-always-returns-invalid-arguments
 
 ## Kiosk Breakouts
 
