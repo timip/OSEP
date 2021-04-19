@@ -118,9 +118,12 @@ Public resources for PEN-300 Training.
 - 10.3.2.2: Extra Mile
   - https://stackoverflow.com/questions/20381812/mprotect-always-returns-invalid-arguments
 
-## Kiosk Breakouts
+## 11. Kiosk Breakouts
+- 11.2.4.2: Extra Mile
+  - https://developer.mozilla.org/en-US/docs/Web/API/Window/dump
+  - https://developer.mozilla.org/en-US/docs/Mozilla/Preferences/Preference_reference/browser.dom.window.dump.file
 
-## Windows Credentials
+## 12. Windows Credentials
 
 ## Windows Lateral Movement
 
