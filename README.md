@@ -124,6 +124,8 @@ Public resources for PEN-300 Training.
   - https://developer.mozilla.org/en-US/docs/Mozilla/Preferences/Preference_reference/browser.dom.window.dump.file
 
 ## 12. Windows Credentials
+- 12.4.1.1: Memory Dump
+  - https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 
 ## Windows Lateral Movement
 
