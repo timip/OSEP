@@ -127,9 +127,9 @@ Public resources for PEN-300 Training.
 - 12.4.1.1: Memory Dump
   - https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 
-## Windows Lateral Movement
+## 13. Windows Lateral Movement
 
-## Linux Lateral Movement
+## 14. Linux Lateral Movement
 
 ## Microsoft SQL Attacks
 
