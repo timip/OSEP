@@ -128,8 +128,21 @@ Public resources for PEN-300 Training.
   - https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 
 ## 13. Windows Lateral Movement
+- 13.1.4.1: RDP as a Console
+  - https://github.com/0xthirteen/SharpRDP
+- 13.1.5.1: Stealing Clear Text Credentials from RDP
+  - https://github.com/0x09AL/RdpThief
+- 13.2.2.1: Implementing Fileless Lateral Movement in C#
+  - https://github.com/Mr-Un1k0d3r/SCShell
 
 ## 14. Linux Lateral Movement
+- 14.3: Kerberos on Linux
+  - https://www.vgemba.net/microsoft/Kerberos-Linux-Windows-AD/
+- 14.3.4.2: Extra Mile
+  - https://github.com/GhostPack/Rubeus#dump
+  - https://github.com/eloypgz/ticket_converter
+  - https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
+  - https://www.tarlogic.com/blog/how-to-attack-kerberos/
 
 ## Microsoft SQL Attacks
 
