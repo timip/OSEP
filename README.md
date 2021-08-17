@@ -145,6 +145,8 @@ Public resources for PEN-300 Training.
   - https://www.tarlogic.com/blog/how-to-attack-kerberos/
 
 ## Microsoft SQL Attacks
+- 15.2.1.1: Privilege Escalation using SQL Impersonation
+  - https://www.microfocus.com/documentation/enterprise-developer/ed231/ETS/GUID-AF131F1C-54B8-4D25-8088-22A59C1AEA9F.html
 
 ## Active Directory Exploitation
 
