@@ -144,9 +144,16 @@ Public resources for PEN-300 Training.
   - https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a
   - https://www.tarlogic.com/blog/how-to-attack-kerberos/
 
-## Microsoft SQL Attacks
+## 15. Microsoft SQL Attacks
 - 15.2.1.1: Privilege Escalation using SQL Impersonation
   - https://www.microfocus.com/documentation/enterprise-developer/ed231/ETS/GUID-AF131F1C-54B8-4D25-8088-22A59C1AEA9F.html
+- 15.3.1.1: Linked Server
+  - https://documentation.nodinite.com/Documentation/InstallAndUpdate?doc=/Troubleshooting/About%20Linked%20Server%20RPC%20and%20RPC%20Out%20option
+- 15.3.1.2: Extra Mile
+  - https://www.netspi.com/blog/technical/network-penetration-testing/how-to-hack-database-links-in-sql-server/
+- 15.3.2.2: Extra Mile
+  - https://github.com/NetSPI/PowerUpSQL/wiki/Setting-Up-PowerUpSQL
+  - https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Cheat-Sheet
 
 ## Active Directory Exploitation
 
