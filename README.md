@@ -2,7 +2,9 @@
 
 Public resources for PEN-300 Training. 
 
-## Operating System and Programming Theory
+## 1. Evasion Techniques and Breaching Defenses: General Course Information
+
+## 2. Operating System and Programming Theory
 
 ## 3. Client Side Code Execution With Office
 - 3.1.3.1: JavaScript
@@ -155,8 +157,13 @@ Public resources for PEN-300 Training.
   - https://github.com/NetSPI/PowerUpSQL/wiki/Setting-Up-PowerUpSQL
   - https://github.com/NetSPI/PowerUpSQL/wiki/PowerUpSQL-Cheat-Sheet
 
-## Active Directory Exploitation
+## 16. Active Directory Exploitation
+- 16.2.1.1: Keroberos Unconstrained Delegation
+  - https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/domain-compromise-via-unrestricted-kerberos-delegation
+- 16.2.2.1: I Am a Domain Controller
+  - https://github.com/leechristensen/SpoolSample
+  - https://www.c-sharpcorner.com/article/how-to-fix-ps1-can-not-be-loaded-because-running-scripts-is-disabled-on-this-sys/
 
-## Combining the Pieces
+## 17. Combining the Pieces
 
-## Trying Harder: The Labs
+## 18. Trying Harder: The Labs
