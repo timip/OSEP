@@ -163,6 +163,10 @@ Public resources for PEN-300 Training.
 - 16.2.2.1: I Am a Domain Controller
   - https://github.com/leechristensen/SpoolSample
   - https://www.c-sharpcorner.com/article/how-to-fix-ps1-can-not-be-loaded-because-running-scripts-is-disabled-on-this-sys/
+- 16.2.3.1: Constrained Delegation
+  - https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-kerberos-constrained-delegation
+- 16.2.4.1: Resource-Based Constrained Delegation
+  - https://github.com/Kevin-Robertson/Powermad
 
 ## 17. Combining the Pieces
 
