@@ -167,6 +167,10 @@ Public resources for PEN-300 Training.
   - https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-kerberos-constrained-delegation
 - 16.2.4.1: Resource-Based Constrained Delegation
   - https://github.com/Kevin-Robertson/Powermad
+- 16.4.1.2: Extra Mile
+  - https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/
+  - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
+  - https://adsecurity.org/?p=1588
 
 ## 17. Combining the Pieces
 
